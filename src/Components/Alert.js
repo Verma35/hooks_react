@@ -3,7 +3,7 @@ import React from 'react'
 function Alert() {
     return (
         <div>
-           <p>calculate ur budget....</p>
+           <p>calculate ur budget......</p>
         </div>
     )
 }
